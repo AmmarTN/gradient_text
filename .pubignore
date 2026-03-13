@@ -1,0 +1,5 @@
+pkg.txt
+.idea/
+*.iml
+.DS_Store
+build/
