@@ -8,6 +8,20 @@
 
 A Flutter widget for rendering text with beautiful **linear** and **radial** gradient effects, supporting 8 gradient directions, custom color stops, and full text styling.
 
+## Screenshots
+
+<p>
+  <img src="screenshots/example_1.png" width="300" alt="Gradient text example - light"/>
+  <img src="screenshots/example_2.png" width="300" alt="Gradient text example - dark"/>
+</p>
+
+```dart
+GradientText('Text Gradient Widget',
+    colors: const [Colors.red, Colors.teal, Colors.yellow],
+    stops: const [0.0, 0.5, 1.0],
+    style: AppTextStyles(context).px28wRegular()),
+```
+
 ## Features
 
 - **Linear gradients** with 8 directional options
