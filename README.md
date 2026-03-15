@@ -42,7 +42,7 @@ Or add it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  text_gradient_widget: ^1.0.0
+  text_gradient_widget: ^1.0.1
 ```
 
 Then run:
