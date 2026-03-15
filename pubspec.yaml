@@ -2,10 +2,10 @@ name: text_gradient_widget
 description: >-
   A Flutter widget for rendering text with linear and radial gradient effects,
   supporting 8 directions, custom stops, and full text styling.
-version: 1.0.0
-homepage: https://github.com/AmmarTN/text_gradient_widget
-repository: https://github.com/AmmarTN/text_gradient_widget
-issue_tracker: https://github.com/AmmarTN/text_gradient_widget/issues
+version: 1.0.1
+homepage: https://github.com/AmmarTN/gradient_text
+repository: https://github.com/AmmarTN/gradient_text
+issue_tracker: https://github.com/AmmarTN/gradient_text/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

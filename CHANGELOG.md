@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Fix repository, homepage, and issue tracker links in package metadata.
+
 ## 1.0.0
 
 * Initial release.
